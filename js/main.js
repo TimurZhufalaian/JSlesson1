@@ -35,16 +35,16 @@ var myTest = 20;
 myTest += myNum;
 console.log("+=", myTest);
 
-myTest -= 10;
+myTest -= 20;
 console.log("-=", myTest);
 
-myTest *= 2;
+myTest *= 3;
 console.log("*=", myTest);
 
 myTest /= myNum;
 console.log("/=", myTest);
 
-myTest %= 3;
+myTest %= 1;
 console.log("%=", myTest);
 
 // 5
