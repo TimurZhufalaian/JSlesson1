@@ -6,3 +6,6 @@ if (true) {
   console.log("true +2");
   console.log("true +3");
 }
+
+var num = 50;
+console.log;
