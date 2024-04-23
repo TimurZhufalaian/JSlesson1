@@ -1,5 +1,5 @@
 // 1
-var myNum = 10;
+var myNum = 11;
 var myStr = "строка";
 var myBool = true;
 var myArr = [1, 2, 3, 4, 5];
